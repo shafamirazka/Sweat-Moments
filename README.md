@@ -1,1 +1,4 @@
 # Sweat-Moments
+
+
+4. Object-Relational Mapper (ORM) adalah pustaka kode yang mengotomatiskan transfer data yang disimpan dalam tabel basis data relasional ke dalam objek yang lebih umum digunakan dalam kode aplikasi. ORM menyediakan abstraksi tingkat tinggi pada basis data relasional yang memungkinkan pengembang menulis kode Python alih-alih SQL untuk membuat dan memperbarui data dan skema dalam basis data serta memperoleh hasil. Pengembang dapat menggunakan bahasa pemrograman yang dikuasai untuk bekerja dengan basis data alih-alih menulis pernyataan SQL atau prosedur tersimpan. Kemampuan menulis kode Python sebagai pengganti SQL dapat mempercepat pengembangan aplikasi web, terutama di awal proyek. Peningkatan kecepatan pengembangan yang potensial berasal dari tidak perlunya beralih dari kode Python ke penulisan pernyataan SQL paradigma deklaratif, rekayasa yang memanfaatkan beberapa fitur Python yang lebih canggih untuk memudahkan pekerjaan pengembang.
